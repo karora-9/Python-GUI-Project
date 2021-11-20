@@ -1,3 +1,2 @@
 # Python-GUI-Project
-Tower of Hanoi Game
-~using tkinter~
+Tower of Hanoi Game using tkinter
